@@ -21,6 +21,12 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "*.md" $ do
+        route   $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
+    {-
     match (fromList ["about.rst", "contact.markdown"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
@@ -62,6 +68,7 @@ main = hakyllWith config $ do
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
+    -}
 
     match "templates/*" $ compile templateCompiler
 
