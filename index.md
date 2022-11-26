@@ -2,16 +2,15 @@
 title: Home 
 ---
 
-## Homepage
+## Home
 
-<img src="images/drumming.jpg" height="200" alt="Me playing the drums in 2019" style="float: right; margin: 4px 10px 4px 4px; border: 1px solid #000000;"> 
+<img src="images/drumming.jpg" height="200" alt="Me playing the drums in 2019" style="float: right; margin: 10px 10px 10px 10px; border: 1px solid #000000;"> 
 
-It feels like Moore's Law is about to end and, as an electrical engineer, I am very excited to have front-row tickets to the event.
-I am interested in exploring how neuromorphic, mixed-signal design techniques can be used to improve computer hardware without relying on ever-smaller process nodes.
-Specifically, I hope to make progress towards solving the von Neumann bottleneck problem and reducing the energy consumption of computer systems.
+Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated circuits. 
 
-Currently, I am a graduate student at Harvard University, where I perform research in neuromorphic engineering with the [Donhee Ham Lab](https://www.donheehamlab.org/). 
+Currently, I am a graduate student at Harvard University, where I study neuromorphic engineering with the [Donhee Ham Lab](https://www.donheehamlab.org/). 
 Previously, I got a few tapeouts under my belt as a member of the CPU core physical design team at AMD, and completed my undergraduate education at the Colorado School of Mines. 
 I am also an alum of the Maine School of Science and Mathematics in my bucolic, non-rhotic, home state.
 
-This site is a work-in-progress. I intend to use it mostly for discussion of engineering topics, but I reserve the right to post uninteresting content covering any topic of my interest.
+Outside of engineering, I am also a drummer, outdoorsman, and GNU/Linux advocate. 
+I would be happy to strike up a conversation with you about any of these topics.
