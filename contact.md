@@ -12,6 +12,9 @@ This is my preferred mode of contact. Matrix is an excellent FOSS project, and E
 ### Email 
 t reagan [at] g [dot] harvard [dot] edu 
 
+### Phone
+Prime factors: [13 19 859 9767]
+
 ### LinkedIn
 [tomhenryreagan](https://www.linkedin.com/in/tomhenryreagan/)
 
