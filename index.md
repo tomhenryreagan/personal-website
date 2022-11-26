@@ -4,7 +4,7 @@ title: Home
 
 ## Home
 
-<img src="images/drumming.jpg" height="200" alt="Me playing the drums in 2019" style="float: right; margin: 10px 10px 10px 10px; border: 1px solid #000000;"> 
+<img src="images/moab-22.jpeg" height="250" alt="Me on a trip to Moab in 2022" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
 
 Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated circuits. 
 

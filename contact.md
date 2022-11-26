@@ -1,6 +1,9 @@
 ---
 title: Contact
 ---
+
+<img src="images/drumming.jpg" height="200" alt="Me playing the drums in 2019" style="float: right; margin: 10px 10px 10px 10px; border: 2px solid #000800;"> 
+
 ### Matrix/Element 
 [at] tomhenry [colon] [matrix.org](https://matrix.org/)
 
