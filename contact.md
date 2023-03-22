@@ -2,8 +2,9 @@
 title: Contact
 ---
 
-<img src="images/drumming.jpg" height="175" alt="Me playing the drums in 2019" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
+<img src="images/rmnp.jpg" height="225" alt="Me at RMNP in 2019" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
 
+## Contact
 ### Matrix (preferred)
 [at] tomhenry [colon] [matrix.org](https://matrix.org/)
 
