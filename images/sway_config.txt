@@ -1,0 +1,251 @@
+# TomHenry's sway config
+
+# Modifier config
+set $mod Mod4
+set $sup Control 
+
+# Capslock -> CTRL 
+input "type:keyboard" {
+   xkb_options ctrl:nocaps
+}
+
+# Directions
+set $left h
+set $down j
+set $up k
+set $right l
+
+# Default terminal
+set $term foot
+
+# Window title font
+font pango:inconsolata 12
+
+# App launcher - bemenu
+set $menu dmenu_path | bemenu | xargs swaymsg exec --
+
+# Start a terminal
+bindsym $mod+minus exec $term
+bindsym $mod+return exec $term
+
+# Kill focused window
+bindsym $mod+$sup+q kill
+
+# Start launcher
+bindsym $mod+d exec $menu
+
+# Load /etc/ settings too
+include /etc/sway/config.d/*
+
+# Drag floating windows by holding down $mod and left mouse button.
+## Resize them with right mouse button + $mod.
+## Despite the name, also works for non-floating windows.
+## Change normal to inverse to use left mouse button for resizing and right
+## mouse button for dragging.
+floating_modifier $mod normal
+
+# Reload the configuration file
+bindsym $mod+$sup+period reload
+
+# Restart sway in place (for applying updates)
+# TODO: This doesn't seem to work?
+bindsym $mod+$sup+y restart
+
+# Exit sway (logs out of Wayland session)
+bindsym $mod+$sup+u exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+
+# Change focused window 
+bindsym $mod+$left focus left
+bindsym $mod+$down focus down
+bindsym $mod+$up focus up
+bindsym $mod+$right focus right
+## Same w/ arrows
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+# Move focused window
+bindsym $mod+$sup+$left move left
+bindsym $mod+$sup+$down move down
+bindsym $mod+$sup+$up move up
+bindsym $mod+$sup+$right move right
+## Same w/ arrows
+bindsym $mod+$sup+Left move left
+bindsym $mod+$sup+Down move down
+bindsym $mod+$sup+Up move up
+bindsym $mod+$sup+Right move right
+
+# Switch to workspace X
+bindsym $mod+1 workspace number 1
+bindsym $mod+2 workspace number 2
+bindsym $mod+3 workspace number 3
+bindsym $mod+4 workspace number 4
+bindsym $mod+5 workspace number 5
+bindsym $mod+6 workspace number 6
+bindsym $mod+7 workspace number 7
+bindsym $mod+8 workspace number 8
+bindsym $mod+9 workspace number 9
+bindsym $mod+0 workspace number 10
+
+# Move focused container to workspace
+bindsym $mod+$sup+1 move container to workspace number 1
+bindsym $mod+$sup+2 move container to workspace number 2
+bindsym $mod+$sup+3 move container to workspace number 3
+bindsym $mod+$sup+4 move container to workspace number 4
+bindsym $mod+$sup+5 move container to workspace number 5
+bindsym $mod+$sup+6 move container to workspace number 6
+bindsym $mod+$sup+7 move container to workspace number 7
+bindsym $mod+$sup+8 move container to workspace number 8
+bindsym $mod+$sup+9 move container to workspace number 9
+bindsym $mod+$sup+0 move container to workspace number 10
+
+# Multi-monitor setup
+set $left_monitor DVI-D-2
+set $right_monitor HDMI-A-1
+output $left_monitor pos 0 0 res 1920x1080
+output $right_monitor pos 1920 0 res 1920x1080
+## 1-5 -> left monitor
+## 6-0 -> right monitor
+workspace 1     output $left_monitor
+workspace 2     output $left_monitor
+workspace 3     output $left_monitor
+workspace 4     output $left_monitor
+workspace 5     output $left_monitor
+workspace 6     output $right_monitor
+workspace 7     output $right_monitor
+workspace 8     output $right_monitor
+workspace 9     output $right_monitor
+workspace 0     output $right_monitor
+
+# Map tablet to left monitor always
+input type:tablet_tool map_to_output $left_monitor
+
+# Split container
+bindsym $mod+b splith
+bindsym $mod+v splitv
+
+# Switch the current container between different layout styles
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# Make the current focus fullscreen
+bindsym $mod+f fullscreen
+
+# Toggle the current focus between tiling and floating mode
+bindsym $mod+$sup+Space floating toggle
+
+# Swap focus between the tiling area and the floating area
+bindsym $mod+Space focus mode_toggle
+
+# Move focus to the parent container
+bindsym $mod+a focus parent
+
+# Scratchpad
+## Move the currently focused window to the scratchpad
+bindsym $mod+$sup+p move scratchpad
+## Show the next scratchpad window or hide the focused scratchpad window.
+bindsym $mod+p scratchpad show
+
+# Resizing containers:
+mode "resize" {
+    ## left will shrink the containers width
+    ## right will grow the containers width
+    ## up will shrink the containers height
+    ## down will grow the containers height
+    bindsym $left resize shrink width 10px or 10ppt
+    bindsym $down resize grow height 10px or 10ppt
+    bindsym $up resize shrink height 10px or 10ppt
+    bindsym $right resize grow width 10px or 10ppt
+
+    ## Same w/ arrows
+    bindsym Left resize shrink width 10px or 10ppt
+    bindsym Down resize grow height 10px or 10ppt
+    bindsym Up resize shrink height 10px or 10ppt
+    bindsym Right resize grow width 10px or 10ppt
+
+    ## Return to default mode
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+bindsym $mod+r mode "resize"
+
+# Status Bar
+set $transparent #00000009
+bar {
+    status_command i3status-rs 
+    font pango: inconsolata, Font Awesome 6 Free 10
+    position top
+    height 16
+    status_padding 0
+}
+
+# Take Screenshots
+## Whole screen
+bindsym $mod+F4 exec grim ~/pictures/screenshots/$(date +'%Y-%m-%d-%H%M%S_grim.png')
+## Selection
+bindsym $mod+$sup+F4 exec grim -g "$(slurp)" ~/pictures/screenshots/$(date +'%Y-%m-%d-%H%M%S_grim.png')
+
+# Volume control
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +2% 
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -2% 
+bindsym XF86AudioPlay exec playerctl play-pause
+bindsym $sup+XF86AudioPlay exec ~/.local/bin/switch_sink
+
+# Lock screen with keyboard shorcut
+bindsym $mod+BackSpace exec swaylock -f -c 000000 
+bindsym $mod+$sup+BackSpace exec swaylock -f -c 000000 && systemctl suspend
+
+# Idle configuration -- disabled 02-02-2023 in preference of just shortcuts
+#exec swayidle -w \
+#    timeout 7200 'swaylock -f -c 000000' \
+#    timeout 7200 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"' \
+#    timeout 7200 'systemctl suspend' \
+#    before-sleep 'swaylock -f -c 000000'
+
+# Brightness control
+bindsym $mod+F1 exec brightnessctl set 5%-
+bindsym $mod+F2 exec brightnessctl set 5%+
+
+# Gaps and borders
+#default_border pixel 4
+#gaps inner 4
+#smart_gaps on
+for_window [class="^.*"] border pixel 4
+
+# Window colors -- borrowed from github.com/joshpetit/dotfiles
+## class                 border  bground text    indicator child_border
+client.focused          #27AE60 #27AE60 #FFFFFF #27AE60   #27AE60
+client.focused_inactive #2C3E50 #2C3E50 #FFFFFF #2C3E50   #34495E
+client.unfocused        #2C3E50 #2C3E50 #888888 #2C3E50   #2C3E50
+client.urgent           #2F343A #3743BD #FFFFFF #3743BD   #3743BD
+client.placeholder      #000000 #0C0C0C #FFFFFF #000000   #0C0C0C
+client.background       #FFFFFF
+
+# Mouse doesn't move with focus
+mouse_warping none
+
+# GTK Theme
+exec_always gsettings set org.gnome.desktop.interface gtk-theme Arc-Dark
+
+# Desktop background
+output * bg /home/tomhenry/.config/sway/wallpaper fill
+
+# Application specific window configs
+## Zoom
+for_window [class="(.*join\?action\=join.*|.*zoom.*)"] floating enable
+for_window [class="(.*join\?action\=join.*|.*zoom.*)" title="Zoom - Licensed Account"] floating disable
+for_window [class="(.*join\?action\=join.*|.*zoom.*)" title="Zoom Meeting"] floating disable
+
+## Gnome Calculator
+for_window [class="gnome-calculator"] floating enable
+
+# Startup applications
+## clipman
+exec wl-paste -t text --watch clipman store --no-persist
+## make protonvpn work
+exec gnome-keyring-daemon --start 
+exec nm-applet
+## geo-based day/night redshift
+exec gammastep 
