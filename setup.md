@@ -13,9 +13,3 @@ title: Setup
     - [gammastep](https://archlinux.org/packages/community/x86_64/gammastep/) -- bluelight filter
     - [mpd](https://archlinux.org/packages/extra/x86_64/mpd/) + [cantata](https://archlinux.org/packages/community/x86_64/cantata/) -- music player + GUI
     - [element](https://element.io/) -- Matrix chat client
-- Hardware peripherals:
-    - Keyboard: Keebio Irix Rev4 -- I'm all in on the split ergo lifestyle
-    - Mouse: Logitech MX Ergo -- obligatory matching trackball
-    - Headphones: Shure SRH1540 
-    - DAC: AudioQuest Dragonfly  
-    - Speakers: Klipsch Promedia 2.1
