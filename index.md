@@ -8,9 +8,10 @@ title: Home
 
 Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated circuits. 
 
-Currently, I am a graduate student at Harvard University, where I study neuromorphic engineering with the [Donhee Ham Lab](https://www.donheehamlab.org/). 
-Previously, I got a few tapeouts under my belt as a member of the CPU core physical design team at AMD, and completed my undergraduate education at the Colorado School of Mines. 
+Currently, I am a graduate student in the [Donhee Ham Lab](https://www.donheehamlab.org/) at Harvard University.
+
+Previously, I designed CPU cores at AMD, and earned a B.S. at the Colorado School of Mines. 
+
 I am also an alum of the Maine School of Science and Mathematics in my bucolic, non-rhotic, home state.
 
-Outside of engineering, I also [play the drums](/drums.html), explore the outdoors, guzzle coffee, and [hack around on GNU/Linux](/setup.html). 
-I would be happy to strike up a conversation with you about any of these topics.
+For fun, I [play the drums](/drums.html), explore the outdoors, and [hack around on GNU/Linux](/setup.html). 
