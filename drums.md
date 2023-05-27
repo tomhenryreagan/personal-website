@@ -4,7 +4,7 @@ title: Drums
 
 <img src="images/drumming.jpg" height="175" alt="Me playing the drums in 2019" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
 
-## Drums
+# Drums
 Drumming is my favorite hobby. 
 
 Here are some videos of me playing, hopefully with more to come. 
