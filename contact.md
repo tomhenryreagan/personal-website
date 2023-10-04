@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-<img src="images/rmnp.jpg" height="225" alt="Me at RMNP in 2019" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
+<img src="images/seas23-03.jpg" height="225" alt="Me in fall 2023" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
 
 # Contact
 **Matrix:** [at] tomhenry [colon] [matrix.org](https://matrix.org/)
