@@ -13,4 +13,4 @@ Previously, I designed CPU cores at AMD, and earned a B.S. at the Colorado Schoo
 
 I am also an alum of the Maine School of Science and Mathematics in my bucolic, non-rhotic, home state.
 
-For fun, [I play the drums](/drums.html), explore the outdoors, and [hack around on GNU/Linux](/setup.html). 
+For fun, [I play the drums](/music.html), explore the outdoors, and [hack around on GNU/Linux](/setup.html). 
