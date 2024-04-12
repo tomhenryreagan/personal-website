@@ -2,10 +2,9 @@
 title: Home 
 ---
 
+<img src="images/moab-22.jpeg" height="225" alt="Me on a trip to Moab in 2022" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
+
 # Home
-
-<img src="images/moab-22.jpeg" height="250" alt="Me on a trip to Moab in 2022" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
-
 Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated circuits. 
 
 Currently, I am a graduate student in the [Donhee Ham Lab](https://www.donheehamlab.org/) at Harvard University.

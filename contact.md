@@ -9,6 +9,8 @@ title: Contact
 
 **Email:** t reagan [at] g [dot] harvard [dot] edu 
 
-I vastly prefer Matrix to other forms of digital communication, and would be extremely stoked if you chose to contact me that way. If you're new to Matrix, give the [element](https://element.io/) client a try. 
+**LinkedIn:** [tomhenryreagan](https://www.linkedin.com/in/tomhenryreagan/)
+
+I would be so stoked if you hit me up on Matrix. If you're unfamiliar, give the [element](https://element.io/) client a try. 
 
 My CV/resume is available upon request. 
