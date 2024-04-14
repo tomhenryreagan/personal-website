@@ -1,13 +1,13 @@
 name:                personal-website
-version:             0.1.0.0
+version:             1.0.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/personal-website#readme
-license:             BSD3
+homepage:            https://www.tomhenry.xyz
+license:             GPL3 
 license-file:        LICENSE
 author:              TomHenry Reagan
 maintainer:          tomhenryreagan
-copyright:           2022 TomHenry Reagan
+copyright:           2022-2024 TomHenry Reagan
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md

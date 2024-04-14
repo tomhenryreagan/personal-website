@@ -2,7 +2,7 @@
 title: Music
 ---
 
-<img src="images/drumming.jpg" height="225" alt="Me playing the drums at Your Mom's House, Denver in 2019" style="float: right; margin: 3px 3px 3px 3px; border: 2px solid #000800;"> 
+<img src="/media/drumming.jpg" alt="Me playing the drums at Your Mom's House, Denver in 2019" style="height:12em"> 
 
 # Music 
 Drumming is my favorite hobby. 

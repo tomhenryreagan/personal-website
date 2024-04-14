@@ -13,7 +13,7 @@ config = defaultConfiguration
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-    match "images/*" $ do
+    match "media/*" $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -21,10 +21,11 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "*.md" $ do
+    match "md/*" $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= saveSnapshot "content"
             >>= relativizeUrls
 
     match "templates/*" $ compile templateCompiler
