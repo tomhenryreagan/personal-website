@@ -7,6 +7,11 @@ body {
     width: 100%;
     max-width: 1000px;
 }
+.emph {
+        font-weight: bold;
+        color: ForestGreen;
+}
+
 
 div#header {
     border-bottom: 2px solid white;
@@ -18,6 +23,15 @@ div#content img {
     float: right;
     border: 2px solid white;
     margin-left: 1em;
+}
+
+div#photos img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid ForestGreen;
+    max-width: 80%;
+    height: auto;
 }
 
 /* link color */
