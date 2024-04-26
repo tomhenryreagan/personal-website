@@ -25,13 +25,21 @@ div#content img {
     margin-left: 1em;
 }
 
-div#photos img {
+#photos img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 1em;
     border: 4px solid ForestGreen;
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
+}
+
+div#photos {
+    margin: auto;
+    max-width: 80%;
+    text-align: right;
 }
 
 /* link color */

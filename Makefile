@@ -3,9 +3,9 @@ all: build
 build: 
 	@stack build
 	@stack exec -- personal-website build
-	@mv -v docs/md/* docs
+	-mv -v docs/md/* docs
 	@cp -v CNAME docs
-	@rm -vr docs/md
+	@rm -vrf docs/md
 
 watch: build
 	@stack exec -- personal-website watch

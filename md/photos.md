@@ -4,19 +4,11 @@ title: Photos
 
 # Photos
 
-I find peace and purpose through making meaningful connections with my natural environment. 
-These connections usually take the form of observing wild places, caring for plants, and befriending animals who coinhabit my frequented spaces.
-This page contains several nature-y photos I have taken which make me feel a little more at home in the outdoors. Perhaps you may enjoy them, too.
+Please enjoy some photos I have taken which make me smile when I look at them. Some are of squirrels. Some are of natural scenes. Some are of things I've made. But mostly squirrels.
 
-### Squirrels
+Yes, my squirrel friends let me get quite close to them. I invest a lot of time into becoming their friend. Please do not feed wild squirrels by hand or entice them with unhealthy treats. 
 
-Yes, my squirrel friends let me get quite close to them. I have spent over a year building their trust and becoming their friends. Please do not 
-feed wild squirrels by hand, chase after them for photos, or entice them with plentiful/unhealthy treats. Please do love and appreciate the squirrels you see 
-in your local parks. They are curious, kind, and clever animals. By observing them in a local park, you can learn a lot about the inner workings of the ecosystem you inhabit.
-
-### Attribution
-
-I have also shared several of these works on Wikimedia Commons so that anybody can appreciate them. All photos with a <span class="emph">green border</span> have the following attribution (which is my own, but under a different name):
+I have shared several of these works on WikiCommons to make it easier for others to appreciate them. All photos with a <span class="emph">dotted border</span> have the following attribution (which is my own, but under a different name):
 
 > [TimberToner](https://commons.wikimedia.org/wiki/Special:Contributions/TimberToner), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons.
 
@@ -25,12 +17,25 @@ I have also shared several of these works on Wikimedia Commons so that anybody c
 [//]: # (The above HTML mark ends the content div so that the photos div can begin. Some CSS tomfoolery is all.)
 
 <div id="photos">
-<img src="/media/squirrel_pete_curious_20240418.jpg" alt="One-Eye Pete the squirrel looks at the camera curiously." > 
+<img src="/media/scoot_eats_20240425.jpg" alt="Scoot eating a nut."> 
+04-25-2024 // Scoot
 
-<img src="/media/squirrel_scoot_rainy_20240412.jpg" alt="Scoot the squirrel eats a sunflower seed in the rain." > 
+<img src="/media/scoot_regal_20240425.jpg" alt="Scoot looking regal."> 
+04-25-2024 // Scoot
 
-<img src="/media/squirrel_scoot_closeup_20240320.jpg" alt="Closeup of Scoot the squirrel looking surprised." > 
+<img src="/media/mosfet_20240419.png" alt="Microscopic view of a homemade MOSFET. The pink rectangle is 100um long."> 
+04-19-2024 // Homemade MOSFET
 
-<img src="/media/squirrel_scoot_smiles_20240320.jpg" alt="Scoot the squirrel smiles after eating a seed." > 
+<img src="/media/squirrel_pete_curious_20240418.jpg" alt="One-Eye Pete the squirrel looks at the camera curiously." style="border: 4px dotted ForestGreen"> 
+04-18-2024 // Pete
+
+<img src="/media/squirrel_scoot_rainy_20240412.jpg" alt="Scoot the squirrel eats a sunflower seed in the rain." style="border: 4px dotted ForestGreen"> 
+04-12-2024 // Scoot
+
+<img src="/media/squirrel_scoot_closeup_20240320.jpg" alt="Closeup of Scoot the squirrel looking surprised." style="border: 4px dotted ForestGreen"> 
+03-20-2024 // Scoot
+
+<img src="/media/squirrel_scoot_smiles_20240320.jpg" alt="Scoot the squirrel smiles after eating a seed." style="border: 4px dotted ForestGreen"> 
+03-20-2024 // Scoot
 
 </div> 
