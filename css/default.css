@@ -19,11 +19,35 @@ div#header {
     padding: 12px 0px 12px 0px;
 }
 
-div#content img {
-    float: right;
+div#content column {
+        display: block;
+        padding: 12px;
+}
+.column.left {
+        display: block;
+        float: left;
+        width: 70%;
+}
+.column.right {
+        display: block;
+        float: right;
+        width: 30%;
+}
+
+.column.right img {
+    float: left;
     border: 2px solid white;
     margin-left: 1em;
 }
+
+/* Clear floats after the columns */
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
 #photos img {
     display: block;
@@ -40,6 +64,24 @@ div#photos {
     margin: auto;
     max-width: 80%;
     text-align: right;
+}
+
+div#albums {
+        margin: auto;
+        margin-left: 0em;
+        max-width: 40%;
+        text-align: left;
+}
+
+#albums img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 3em;
+        margin-bottom: 1em;
+        border: 4px solid white;
+        max-width: 100%;
+        height: auto;
 }
 
 /* link color */
