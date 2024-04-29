@@ -21,7 +21,7 @@ Watch some videos of me playing, hopefully with more to come:
 </div>
 
 ## Listen Log
-Check out what I've been listening to recently: 
+Check out what I've been listening to recently. Create your own charts with my command line utility, [srob_chart](https://github.com/tomhenryreagan/scrob_chart).
 
 </div>
 </div>
