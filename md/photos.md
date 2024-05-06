@@ -20,6 +20,9 @@ I have shared several of these works on WikiCommons to make it easier for others
 <img src="/media/scoot_20240505.jpg" alt="Scoot looking crazed right at the camera.">
 05-05-2024 // Scoot
 
+<img src="/media/me_and_scoot_20240505.jpeg" alt="Me posing with Scoot.">
+05-05-2024 // Me and Scoot
+
 <img src="/media/baby_scoot_2040501.jpg" alt="First glimpse of Scoot's new kit!">
 05-01-2024 // Baby Squirrel
 
