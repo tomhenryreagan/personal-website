@@ -8,10 +8,11 @@ title: Music
 # Music 
 Drumming is my favorite hobby. 
 
-Listen to my band's extremely lo-fi demotape: [SCROD demo](https://scrod.bandcamp.com/album/demo)
+Listen to my band's extremely lo-fi demotape: [SÇRÖD demo](https://scrod.bandcamp.com/album/demo)
 
 Watch some videos of me playing, hopefully with more to come:
 
+- [SÇRÖD - Full Set (Live at Somerville PorchFest)](https://www.youtube.com/watch?v=n-ofFXPsRyw)
 - [Teddy Picker (Drum Cover)](https://www.youtube.com/watch?v=9Ypsmg5IhJ4)
 - [You Don't Know Me // Farinha Do Desprezo (Full Band Cover)](https://www.youtube.com/watch?v=dQVYjzgHf-c) 
 
