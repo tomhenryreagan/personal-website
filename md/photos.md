@@ -17,6 +17,24 @@ I have shared several of these works on WikiCommons to make it easier for others
 [//]: # (The above HTML mark ends the content div so that the photos div can begin. Some CSS tomfoolery is all.)
 
 <div id="photos">
+<img src="media/scoot_greets_20240521.jpg" alt="Scoot">
+05-21-2024 // Scoot
+
+<img src="media/scoot_paws_20240520.jpg" alt="Scoot">
+05-20-2024 // Scoot
+
+<img src="media/scoot_interview_20240520.jpg" alt="Scoot">
+05-20-2024 // Scoot
+
+<img src="media/scoot_profile_20240522.jpg" alt="Scoot">
+05-20-2024 // Scoot
+
+<img src="media/scoot_pointer_20240520.jpg" alt="Scoot">
+05-20-2024 // Scoot
+
+<img src="media/scoot_profile_20240520.jpg" alt="Scoot">
+05-20-2024 // Scoot
+
 <img src="/media/scoot_snacks_20240513.jpg" alt="Scoot snacks on a seed.">
 05-13-2024 // Scoot
 
