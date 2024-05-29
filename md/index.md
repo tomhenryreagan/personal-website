@@ -9,7 +9,7 @@ title: Home
 
 Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated circuits. 
 
-For fun, [I play the drums](/music.html), [photograph nature](/photos.html), and [hack around on GNU/Linux](/setup.html). 
+For fun, I [play the drums](/music.html), [photograph nature](/photos.html), and [hack around on GNU/Linux](/setup.html). 
 
 Currently, I am a graduate student in the [Donhee Ham Lab](https://www.donheehamlab.org/) at Harvard University.
 
