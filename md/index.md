@@ -11,9 +11,9 @@ Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated ci
 
 For fun, I [play the drums](/music.html), [photograph nature](/photos.html), and [hack around on GNU/Linux](/setup.html). 
 
-Currently, I am a graduate student in the [Donhee Ham Lab](https://www.donheehamlab.org/) at Harvard University.
+Currently, I am a graduate student in electrical engineering at Harvard University.
 
-Previously, I designed CPU cores at AMD, and earned a B.S. at the Colorado School of Mines. 
+Previously, I designed CPU cores for AMD, and earned a B.S. at the Colorado School of Mines. 
 
 I am also an alum of the Maine School of Science and Mathematics in my bucolic, non-rhotic, home state.
 
