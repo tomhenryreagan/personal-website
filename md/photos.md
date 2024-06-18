@@ -6,7 +6,7 @@ title: Photos
 
 Please enjoy some photos I have taken which make me smile when I look at them. Some are of squirrels. Some are of natural scenes. Some are of things I've made. But mostly squirrels.
 
-Yes, my squirrel friends let me get quite close to them. I invest a lot of time into becoming their friend. Please do not feed wild squirrels by hand or entice them with unhealthy treats. 
+Yes, my squirrel friends let me get quite close to them. I invest a lot of time into becoming their friend. Please do not feed wild squirrels out of your hand or entice them with unhealthy treats. 
 
 I have shared several of these works on WikiCommons to make it easier for others to appreciate them. All photos with a <span class="emph">dotted border</span> have the following attribution (which is my own, but under a different name):
 
@@ -17,6 +17,24 @@ I have shared several of these works on WikiCommons to make it easier for others
 [//]: # (The above HTML mark ends the content div so that the photos div can begin. Some CSS tomfoolery is all.)
 
 <div id="photos">
+<img src="/media/picnicking_friends_20240616.jpg" alt="Chipmunk and squirrel share a picnic">
+06-16-2024 // Picnicking Friends
+
+<img src="/media/chipmunk_stretch_20240616.jpg" alt="Chipmunk stretches for a sniff">
+06-16-2024 // Stretch n' Sniff
+
+<img src="/media/chipmunk_snacks_20240616.jpg" alt="Chipmunk snacks on sunflower seeds">
+06-16-2024 // Cheek Stuffer
+
+<img src="/media/sunset_somerville_20240615.jpg" alt="Sunset over Somerville">
+06-15-2024 // Somervillian Sunset
+
+<img src="/media/creamsicle_morph_20240607.jpg" alt="Rare creamsicle-colored grey squirrel">
+06-07-2024 // Creamsicle Squirrel
+
+<img src="/media/scoot_20240604.jpg" alt="Scoot">
+06-04-2024 // Scoot
+
 <img src="media/scoot_yell_20240528.jpg" alt="Scoot">
 05-28-2024 // Scoot
 
