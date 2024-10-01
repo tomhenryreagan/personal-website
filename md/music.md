@@ -29,6 +29,9 @@ Check out what I've been listening to recently. Create your own charts with my c
 </div>
 
 <div id="albums">
+<img src="/media/albums_202409.jpg" alt="My album chart for Sep 2024">
+09-2024 // Album Chart
+
 <img src="/media/albums_202408.png" alt="My album chart for Aug 2024">
 08-2024 // Album Chart
 
