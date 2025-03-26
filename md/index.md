@@ -7,15 +7,15 @@ title: Home
 <div class="column left">
 # Home
 
-Hello, I'm TomHenry, and I'm an electrical engineer who works with integrated circuits. 
+Hello, I'm TomHenry.
 
-For fun, I [play the drums](/music.html), [photograph nature](/photos.html), and [hack around on GNU/Linux](/setup.html). 
+This website is mostly for me to share my hobbies, which include: [playing
+the drums and exploring new music](/music.html); [taking portraits of
+squirrels](/photos.html); and [hacking around on GNU/Linux](/setup.html). 
 
-Currently, I am a graduate student in electrical engineering at Harvard University.
+By trade, I am an electrical engineer. My job is to design computer processors. There's a decent chance you are reading this using a circuit I've helped to design.
 
-Previously, I designed CPU cores for AMD, and earned a B.S. at the Colorado School of Mines. 
-
-I am also an alum of the Maine School of Science and Mathematics in my bucolic, non-rhotic, home state.
+Currently, I am based near Boston, MA. Previously, I spent several years in CO, and grew up in my bucolic, non-rhotic home state of ME.
 
 </div>
 

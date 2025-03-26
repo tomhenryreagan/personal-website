@@ -29,6 +29,18 @@ Check out what I've been listening to recently. Create your own charts with my c
 </div>
 
 <div id="albums">
+<img src="/media/albums_202503.png" alt="My album chart for Mar 2025">
+03-2025 // Album Chart 
+
+Whoops, I missed a few months. I've been listening to a lot of Mastodon
+and indie rock recently, I guess. The drumming on _Leviathan_ is some of
+the best I've ever heard. The older Parquet Courts album is more fun than
+the newer one that people like, IMO. The Built to Spill dude is an
+incredible guitarist. The Silver Jews have some of the best lyrics I've
+ever heard. Maruja is my favorite up-and-coming band at the moment. Saw
+them live this weekend and they put on an absolutely incredible
+performance. /rant
+
 <img src="/media/albums_202410.png" alt="My album chart for Oct 2024">
 10-2024 // Album Chart
 

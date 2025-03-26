@@ -8,7 +8,7 @@ title: Contact
 # Contact
 **Matrix:** @tomhenry:[matrix.org](https://matrix.org/)
 
-**Email:** t reagan [at] g [dot] harvard [dot] edu 
+**Email:** no thanks
 
 **LinkedIn:** [tomhenryreagan](https://www.linkedin.com/in/tomhenryreagan/)
 
@@ -16,7 +16,6 @@ title: Contact
 
 I would be so stoked if you hit me up on Matrix. If you're unfamiliar, give the [element](https://element.io/) client a try. 
 
-My CV/resume is available upon request. 
 </div>
 
 <div class="column right">
