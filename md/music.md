@@ -6,9 +6,12 @@ title: Music
 <div class="column left">
 
 # Music 
-Drumming is my favorite hobby. 
 
-Listen to my band's extremely lo-fi demotape: [SÇRÖD demo](https://scrod.bandcamp.com/album/demo)
+I play drums in a two-piece punk duo called SCROD. Check out our music: 
+
+- [Bait Barrel EP](https://scrod.bandcamp.com/album/bait-barrel-ep)
+- [SÇRÖD demo](https://scrod.bandcamp.com/album/demo) 
+- [SCROD Instagram](http://instagram.com/scrodband) 
 
 Watch some videos of me playing, hopefully with more to come:
 
@@ -29,6 +32,14 @@ Check out what I've been listening to recently. Create your own charts with my c
 </div>
 
 <div id="albums">
+<img src="/media/albums_202603.png" alt="My album chart for Mar 2026">
+03-2026 // Album Chart 
+
+Back on the hardcore/emo grind recently, and dabbling in some recent 
+pop releases. Really digging the new Gorillaz album. Recently discovered
+that the members of Gaza are in a follow-up group called Cult Leader
+that absolutely rips. And, like every other rock nerd, Angine de Poitrine.
+
 <img src="/media/albums_202503.png" alt="My album chart for Mar 2025">
 03-2025 // Album Chart 
 
