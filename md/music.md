@@ -2,6 +2,16 @@
 title: Music
 ---
 
+# Concerts
+- 04-12-26 *Sun* | Gloomlurker / Satan Weed / Impetigore / And More | Massasoit Elks Lodge 129 | 6:30pm | $15
+- 04-16-26 *Thu* | Crab Lord / No More Youth / Lacquerhead / Gozerian | O'Brien's | 8:00pm | $12
+- 04-28-26 *Tue* | Emily How | O'Brien's | 8:00pm | $15
+- 05-09-26 *Sat* | SCROD / Circuit Jumper / Orbiter | 5 Rose St Somerville (PorchFest!) | 4:00pm | **FREE**
+- 05-09-26 *Sat* | Rong / Wedding Gift / 7-11 Jesus / Dinos | The Fifth Column Boston | 8:00pm | $10
+- 05-12-26 *Tue* | Earth Tongue / Pink Fuzz / Clamb | O'Brien's  | 8:00pm | $20
+- 05-30-26 *Sat* | Homemade Speed / Yankee Bastard / Wanted / Zipper | O'Brien's | 8:00pm | $25
+- *PAST* 03-29-26 *Sun* | Taqbir / Rejekts / Zipper / Fruitcake | American Legion Marsh Post 442 | 8:00pm | $20
+
 # Music 
 
 I play drums in a two-piece punk duo called SCROD. Check out our music: 
@@ -10,22 +20,15 @@ I play drums in a two-piece punk duo called SCROD. Check out our music:
 - [SÇRÖD demo](https://scrod.bandcamp.com/album/demo) 
 - [SCROD Instagram](http://instagram.com/scrodband) 
 
-Watch some videos of me playing, hopefully with more to come:
+Various videos of me playing music:
 
 - [My Drum Vlog](https://www.youtube.com/playlist?list=PL-uhC8JKmygn7aODeMwLYt__QEcxnc_hX)
 - [SÇRÖD - Full Set (Live at Somerville PorchFest)](https://www.youtube.com/watch?v=n-ofFXPsRyw)
 - [Teddy Picker (Drum Cover)](https://www.youtube.com/watch?v=9Ypsmg5IhJ4)
-- [You Don't Know Me // Farinha Do Desprezo (Full Band
-- Cover)](https://www.youtube.com/watch?v=dQVYjzgHf-c) 
-
-# Concerts
-- 03-29-26 *Sun* | Taqbir / Rejekts / Zipper / Fruitcake | American Legion Marsh Post 442 | 8:00pm | $20
-- 04-12-26 *Sun* | Gloomlurker / Satan Weed / Impetigore / And More | Massasoit Elks Lodge 129 | 6:30pm | $15
-- 05-09-26 *Sat* | SCROD / Circuit Jumper / Orbiter | 5 Rose St Somerville (PorchFest!) | 4:00pm | **FREE**
-- 05-09-26 *Sat* | Rong / Wedding Gift / 7-11 Jesus / Dinos | The Fifth Column Boston | 8:00pm | $10
+- [You Don't Know Me // Farinha Do Desprezo (Full Band Cover)](https://www.youtube.com/watch?v=dQVYjzgHf-c) 
 
 
-## Listen Log
+# Listen Log
 Check out what I've been listening to recently. Create your own charts with my command line utility, [scrob_chart](https://github.com/tomhenryreagan/scrob_chart).
 
 <div id="albums">
